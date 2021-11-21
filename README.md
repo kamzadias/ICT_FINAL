@@ -1,5 +1,6 @@
 # Agriculture Management System Database
 Task 2 for ICT Course in Astana IT University
+
 Authors:
 - Dias Kamza 
 - Yerkebulan Zhigerbayev
